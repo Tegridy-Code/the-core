@@ -18,4 +18,11 @@ Its too big so I am providing Google Drive link (~3GB tar)
 
 https://drive.google.com/file/d/1fadvBMKiVQAHYOTtIXSNJLDaUnmfl1SX/view?usp=sharing
 
+The Core Antagonist code repo located here:
+https://github.com/asigalov61/gpt-2-simple
+
+and maybe more up-to-date version can be found here:
+
+https://github.com/minimaxir/gpt-2-simple
+
 Enjoy :)
