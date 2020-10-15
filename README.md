@@ -16,7 +16,7 @@ The Core code repo located here:
 
 https://github.com/asigalov61/Torah-GPT2
 
-Should be used together with The Core Antagonist model:
+Should be used together with The Core Antagonist model (GPT2 774M fine-tuned on precisely same Dataset as the core):
 
 Its too big so I am providing Google Drive link (~3GB tar)
 
