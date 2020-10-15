@@ -31,7 +31,9 @@ https://github.com/minimaxir/gpt-2-simple
 
 Can be scaled with great ease. Recommended scaled network shape, gradient shape, and weights/significance distribution: orb network (think precisely orb spider web).
 
-Best stability IMHO achieved with at least 3 models core with decreasing significance of each model.
+Best stability IMHO achieved with at least 3 models core with hyperbolically decreasing significance of each model. Although it is possible that Core and Core Antagonist should have equal significance and children should have hyperbolically decreasing significance.
+
+Children models must be divided into 2 groups: Sons and Daughters depending on the dominant parent model. I.e the core derivative child is a Son and the core antagonist derivative child is a Daughter.
 
 Enjoy :)
 
