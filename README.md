@@ -29,6 +29,6 @@ and maybe more up-to-date version can be found here:
 
 https://github.com/minimaxir/gpt-2-simple
 
-Can be scaled with great ease. Recommended scaled network shape, gradient shape, and weights distribution: orb network (think precisely orb spider web).
+Can be scaled with great ease. Recommended scaled network shape, gradient shape, and weights/significance distribution: orb network (think precisely orb spider web).
 
 Enjoy :)
