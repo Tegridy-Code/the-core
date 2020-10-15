@@ -36,3 +36,5 @@ Enjoy :)
 #### TODO
 
 Add draft of the children/derivative models.
+
+Create finished draft of the core as Google Colab
