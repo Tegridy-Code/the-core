@@ -8,6 +8,10 @@
 
 ### Based on OpenAI GPT2 Transformer Architecture
 
+***
+
+#### Let's call it Asyncronous NLP GAN for now...
+
 The Core code repo located here:
 
 https://github.com/asigalov61/Torah-GPT2
