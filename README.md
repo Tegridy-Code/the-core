@@ -29,4 +29,6 @@ and maybe more up-to-date version can be found here:
 
 https://github.com/minimaxir/gpt-2-simple
 
+Can be scaled with great ease. Recommended network shape: orb network (think orb spider web).
+
 Enjoy :)
