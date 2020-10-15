@@ -10,7 +10,7 @@
 
 ***
 
-#### Let's call it Asyncronous NLP GAN for now...
+#### Let's call it Asyncronous Distributed NLP GAN for now...
 
 The Core code repo located here:
 
